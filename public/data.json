@@ -1,0 +1,45 @@
+[
+    {
+        "title": "my daily activity",
+        "image": "https://i.ibb.co/nLwKP0B/activity.jpg",
+        "description": "Every Monday until Friday, I wake up at 5.00 A.M. I press the snooze button two times every morning before I turn off the alarm and get up. I perform my morning routine of washing my face, and brushing my teeth. ",
+        "date": 5
+       },
+    {
+      "title": "My Podcast",
+      "image": "https://i.ibb.co/Y38bXzM/podcast.jpg",
+      "description": "i have  created some of podcast. My podcasts topic: Lessons of Faith, spread positivity and motivation quotes ",
+      "date": 8
+     
+        
+    },
+    {
+      "title": "My Thoughts",
+      "image": "https://i.ibb.co/n3sMS5n/positivity1.jpg",
+      "description": "Positive thoughts can let you focus on the brighter side of life. A positive person can enjoy happiness and success since he believes that he can easily overcome all the obstacles and difficulties that come his way.",
+       "date": 4
+    },
+    
+    {
+      "title": "My Travelling story",
+      "image": "https://i.ibb.co/fGy47dz/travel.jpg",
+      "description": "Not every travel story is fun. I have many scary travel stories to share, including the one from Peru. Many years ago, when I’d just started traveling, I took a bus going through parts of the Amazon",
+       "date": 3
+    },
+    {
+      "title": "5 reasons to wake up at 5am",
+      "image": "https://i.ibb.co/qkfmS8t/wake-up.jpg",
+      "description": "Did you know that waking up early - is really unnecessary.You thought this blog was going to be telling you that you should wake up at 5am each morning, to have some alone time before the day gets busy.  That is NOT what I am going to say.",
+      "date": 5
+     },
+    
+    {
+      "title": "my success story",
+      "image": "https://i.ibb.co/4mmvsBG/success.jpg",
+      "description": "My story of success is somewhat ambiguous, the reason being my success was brought by tragedy. ",
+      "date": 5
+      }
+   
+  ]
+
+
